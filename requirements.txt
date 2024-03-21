@@ -1,0 +1,4 @@
+esridump==1.13.0
+gtfs-functions==2.5
+notebook==7.1.2
+matplotlib==3.8.3

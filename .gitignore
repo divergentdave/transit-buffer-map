@@ -1,0 +1,4 @@
+.venv
+gtfs.zip
+*.geojson
+.ipynb_checkpoints
