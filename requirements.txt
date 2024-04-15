@@ -2,3 +2,7 @@ esridump==1.13.0
 gtfs-functions==2.5
 notebook==7.1.2
 matplotlib==3.8.3
+adjustText==1.1.1
+contextily==1.6.0
+folium==0.16.0
+mapclassify==2.6.1
